@@ -13,6 +13,7 @@ REQUIRED SECTIONS:
 - About the Project
   - Built With
 - Getting Started
+- React Frontend Project
 - Authors
 - Future Features
 - Contributing
@@ -184,6 +185,10 @@ To run the project, execute the following command:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- REACT PROJECT -->
+
+- Link of react frontend project: https://github.com/renercrows/hello-react-front-end/tree/setup
 
 <!-- AUTHORS -->
 
