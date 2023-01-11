@@ -1,5 +1,3 @@
-# hello-rails-back-end
-
 <a name="readme-top"></a>
 
 <!--
