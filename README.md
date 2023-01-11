@@ -128,8 +128,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git clone git@github.com:renercrows/hello-rails-react.git
-  cd Budget-App
+  git clone git@github.com:renercrows/hello-rails-back-end.git
+  cd hello-rails-back-end
 ```
 
 
