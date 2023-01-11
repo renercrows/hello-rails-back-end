@@ -88,7 +88,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> what you spend money on and how much you spend, you can see exactly where your cash is going and areas where you can cut back.
+> An app for using two projects, one for frontend and one for backend.
 
 - **[Track your expenses]**
 
